@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/DhwaniDalsania/30-days-of-leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/DhwaniDalsania/30-days-of-leetcode-solutions/tree/master/0066-plus-one) |
 | [0015-3sum](https://github.com/DhwaniDalsania/30-days-of-leetcode-solutions/tree/master/0015-3sum) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/DhwaniDalsania/30-days-of-leetcode-solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Two Pointers
 |  |
 | ------- |
