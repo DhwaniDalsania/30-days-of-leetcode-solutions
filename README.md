@@ -22,12 +22,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DhwaniDalsania/30-days-of-leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/DhwaniDalsania/30-days-of-leetcode-solutions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DhwaniDalsania/30-days-of-leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0005-longest-palindromic-substring](https://github.com/DhwaniDalsania/30-days-of-leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 ## String
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DhwaniDalsania/30-days-of-leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/DhwaniDalsania/30-days-of-leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/DhwaniDalsania/30-days-of-leetcode-solutions/tree/master/0067-add-binary) |
+| [0005-longest-palindromic-substring](https://github.com/DhwaniDalsania/30-days-of-leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 ## String Matching
 |  |
 | ------- |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/DhwaniDalsania/30-days-of-leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0005-longest-palindromic-substring](https://github.com/DhwaniDalsania/30-days-of-leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 ## Memoization
 |  |
 | ------- |
